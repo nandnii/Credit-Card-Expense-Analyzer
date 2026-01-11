@@ -25,14 +25,4 @@ A **Python-based tool** to analyze your credit card statements (PDFs) and genera
   - Transaction counts by category
 - Fully built with **Streamlit** for an interactive web experience.
 
----
-
-## 🗂 Project Structure
-
-credit-card-analyzer/
-├─ app.py                 # Main Streamlit app
-├─ pdf_to_csv_parser.py   # PDF to CSV parser
-├─ cc_expense_tracker.py  # Analysis and visualization functions
-├─ requirements.txt       # Python dependencies
-└─ README.md              # This file
-
+--- 
