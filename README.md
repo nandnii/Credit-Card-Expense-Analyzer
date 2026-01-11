@@ -32,3 +32,7 @@ This tool solves that problem - upload your statements and get instant insights 
 - Fully built with **Streamlit** for an interactive web experience.
 
 --- 
+
+### 📈 Output Images
+![Insights](output.png)
+![Charts](cc_charts.png)
